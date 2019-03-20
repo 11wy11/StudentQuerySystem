@@ -1,0 +1,17 @@
+J:\B_我的资料\笔记本数据备份\课程学习\课程工程\StudentQuerySystem\ArcEngineDemo\obj\x86\Debug\StudentInfoSystem.csproj.ResolveComReference.cache
+J:\B_我的资料\笔记本数据备份\课程学习\课程工程\StudentQuerySystem\StudentInfoSystem\obj\x86\Debug\StudentInfoSystem.csproj.ResolveComReference.cache
+J:\B_我的资料\笔记本数据备份\课程学习\课程工程\StudentQuerySystem\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe
+J:\B_我的资料\笔记本数据备份\课程学习\课程工程\StudentQuerySystem\StudentInfoSystem\bin\Debug\StudentInfoSystem.pdb
+J:\B_我的资料\笔记本数据备份\课程学习\课程工程\StudentQuerySystem\StudentInfoSystem\obj\x86\Debug\StudentInfoSystem.csprojResolveAssemblyReference.cache
+J:\B_我的资料\笔记本数据备份\课程学习\课程工程\StudentQuerySystem\StudentInfoSystem\obj\x86\Debug\Whu_Navigation.AdmitBookmarkName.resources
+J:\B_我的资料\笔记本数据备份\课程学习\课程工程\StudentQuerySystem\StudentInfoSystem\obj\x86\Debug\ArcEngineDemos.Forms.AttributeQueryForm.resources
+J:\B_我的资料\笔记本数据备份\课程学习\课程工程\StudentQuerySystem\StudentInfoSystem\obj\x86\Debug\Whu_Navigation.Forms.FrmSelectField.resources
+J:\B_我的资料\笔记本数据备份\课程学习\课程工程\StudentQuerySystem\StudentInfoSystem\obj\x86\Debug\Whu_Navigation.FrmSelectLayer.resources
+J:\B_我的资料\笔记本数据备份\课程学习\课程工程\StudentQuerySystem\StudentInfoSystem\obj\x86\Debug\Whu_Navigation.Forms.Information.resources
+J:\B_我的资料\笔记本数据备份\课程学习\课程工程\StudentQuerySystem\StudentInfoSystem\obj\x86\Debug\Whu_Navigation.MainForm.resources
+J:\B_我的资料\笔记本数据备份\课程学习\课程工程\StudentQuerySystem\StudentInfoSystem\obj\x86\Debug\Whu_Navigation.FrmAttribute.resources
+J:\B_我的资料\笔记本数据备份\课程学习\课程工程\StudentQuerySystem\StudentInfoSystem\obj\x86\Debug\Whu_Navigation.Forms.PathSortFrm.resources
+J:\B_我的资料\笔记本数据备份\课程学习\课程工程\StudentQuerySystem\StudentInfoSystem\obj\x86\Debug\Whu_Navigation.Properties.Resources.resources
+J:\B_我的资料\笔记本数据备份\课程学习\课程工程\StudentQuerySystem\StudentInfoSystem\obj\x86\Debug\StudentInfoSystem.csproj.GenerateResource.Cache
+J:\B_我的资料\笔记本数据备份\课程学习\课程工程\StudentQuerySystem\StudentInfoSystem\obj\x86\Debug\StudentInfoSystem.exe
+J:\B_我的资料\笔记本数据备份\课程学习\课程工程\StudentQuerySystem\StudentInfoSystem\obj\x86\Debug\StudentInfoSystem.pdb
